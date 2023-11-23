@@ -1,0 +1,14 @@
+.intro,
+.clicknow {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.intro {
+    background-color: black;
+    color: white;
+}
+
+.clicknow {
+    background-color: yellow;
+}
