@@ -23,3 +23,9 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
+ul {
+  display: flex;
+  flex: flexwrap;
+  margin: auto;
+  padding: auto;
+  gap: 10px;
